@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.exe.config
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.exe
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\bin\Debug\Loops1.pdb
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.Form1.resources
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.exe
+C:\Users\Andrew\documents\visual studio 2015\Projects\Loops1\Loops1\obj\Debug\Loops1.pdb
